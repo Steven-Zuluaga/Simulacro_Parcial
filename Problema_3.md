@@ -1,3 +1,14 @@
+# Problema 3
+
+Una plataforma académica define que un identificador válido
+debe cumplir estas condiciones:
+
+- Debe iniciar con la palabra 'est'.
+  
+- Debe tener exactamente 8 caracteres.
+  
+- Los últimos 3 caracteres deben ser dígitos.
+
 - Código
 
 ```python
