@@ -40,7 +40,4 @@ else:
     print('Error: El código no corresponde a un binario')
 
 ```
-```
-<img width="335" height="467" alt="image" src="https://github.com/user-attachments/assets/ca81a585-b566-48d6-a217-24f9eaacbbf1" />
-```
 
