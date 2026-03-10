@@ -18,6 +18,7 @@ decimal y muestre el resultado.
 e) Si no es válida, muestre un mensaje indicando que el código
 no corresponde a un binario correcto.
 
+
 - Código
 
 ```python
