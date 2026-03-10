@@ -13,8 +13,11 @@ Reglas:
 Diseñe un programa que:
 
 a. Solicite al usuario la trama.
+
 b. Limpie la entrada.
+
 c. Valide longitud y contenido.
+
 d. Cuente cuántos 1 tiene usando un método de cadena.
 
 - Código
