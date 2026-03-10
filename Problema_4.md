@@ -1,3 +1,18 @@
+# Problema 4 
+
+Diseñe un programa que lea una entrada y determine si el
+dato puede considerarse:
+
+- un número entero,
+  
+- un número decimal
+  
+- un valor booleano (true o false),
+  
+- o una cadena de texto general.
+  
+El programa debe mostrar la clasificación detectada.
+
 - Código
 
 ```python
