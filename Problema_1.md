@@ -1,7 +1,6 @@
 #Problema 1
 
 
-
 En un sistema básico de control, un usuario ingresa un código
 que supuestamente representa un número binario. Sin embargo, la
 entrada puede contener espacios al inicio o al final, letras en
