@@ -1,4 +1,4 @@
-#Problema 1
+# Problema 1
 
 
 En un sistema básico de control, un usuario ingresa un código
