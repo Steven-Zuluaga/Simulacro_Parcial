@@ -9,6 +9,21 @@ debe cumplir estas condiciones:
   
 - Los últimos 3 caracteres deben ser dígitos.
 
+  Diseñe un programa que:
+  
+- Pida al usuario un identificador.
+  
+- Limpie la entrada si hay espacios.
+  
+- Verifique las tres condiciones anteriores.
+  
+- Muestre uno de los siguientes mensajes:
+  
+o Identificador válido
+o Error: no inicia con est
+o Error: longitud incorrecta
+o Error: terminación numérica inválida
+
 - Código
 
 ```python
